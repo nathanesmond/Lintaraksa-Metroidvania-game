@@ -1,7 +1,6 @@
 # 🕹️ Lintaraksa - 2D Metroidvania Game
 
-**Lintaraksa** is a 2D Metroidvania-style action-adventure game built with **Unity**. Inspired by classics of the genre, it features fluid movement mechanics, magical combat, and layered level design that encourages exploration and skill progression.
-
+**Lintaraksa** is a 2D Metroidvania-style action-adventure game built with **Unity**. Inspired by classics of the genre, it features fluid movement mechanics, animated enemies, and spell combat.
 ---
 
 ## 🎮 Features
