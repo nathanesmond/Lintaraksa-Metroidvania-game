@@ -28,10 +28,10 @@
 - 💻 C# for gameplay scripting
 - 🔊 Unity's Animation and Input Systems
 
-![4](https://github.com/user-attachments/assets/ae58fdd7-8e60-4c91-85ed-eb407535b8e9)
-![3](https://github.com/user-attachments/assets/43e65d9e-64eb-40e4-b8d3-1184c586d532)
-![2](https://github.com/user-attachments/assets/38bad57b-a80a-4ee4-8fba-cfb5dcc9cf11)
 ![1](https://github.com/user-attachments/assets/9415f957-7622-4d68-98d9-6bedc1942ce5)
+![2](https://github.com/user-attachments/assets/38bad57b-a80a-4ee4-8fba-cfb5dcc9cf11)
+![3](https://github.com/user-attachments/assets/43e65d9e-64eb-40e4-b8d3-1184c586d532)
+![4](https://github.com/user-attachments/assets/ae58fdd7-8e60-4c91-85ed-eb407535b8e9)
 
 **Developed By**:
 - Nathanael Esmond Hartono
